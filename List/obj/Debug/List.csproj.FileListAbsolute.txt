@@ -1,0 +1,5 @@
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\List\bin\Debug\List.dll
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\List\bin\Debug\List.pdb
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\List\obj\Debug\List.dll
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\List\obj\Debug\List.pdb

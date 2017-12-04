@@ -1,0 +1,8 @@
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\ListUnitTest\bin\Debug\ListUnitTest.dll
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\ListUnitTest\bin\Debug\ListUnitTest.pdb
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\ListUnitTest\bin\Debug\List.dll
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\ListUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\ListUnitTest\bin\Debug\List.pdb
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\ListUnitTest\obj\Debug\ListUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\ListUnitTest\obj\Debug\ListUnitTest.dll
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\ListUnitTest\obj\Debug\ListUnitTest.pdb

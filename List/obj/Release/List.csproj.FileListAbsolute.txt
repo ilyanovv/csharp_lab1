@@ -1,0 +1,11 @@
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\List\bin\Release\List.dll
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\List\bin\Release\List.pdb
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\List\obj\Release\List.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\List\obj\Release\List.dll
+C:\Users\Ilya\Documents\Visual Studio 2015\Projects\List\List\obj\Release\List.pdb
+C:\Users\IO.Novikov\Documents\Visual Studio 2017\Projects\List\List\bin\Release\List.dll
+C:\Users\IO.Novikov\Documents\Visual Studio 2017\Projects\List\List\bin\Release\List.pdb
+C:\Users\IO.Novikov\Documents\Visual Studio 2017\Projects\List\List\obj\Release\List.csprojResolveAssemblyReference.cache
+C:\Users\IO.Novikov\Documents\Visual Studio 2017\Projects\List\List\obj\Release\List.csproj.CoreCompileInputs.cache
+C:\Users\IO.Novikov\Documents\Visual Studio 2017\Projects\List\List\obj\Release\List.dll
+C:\Users\IO.Novikov\Documents\Visual Studio 2017\Projects\List\List\obj\Release\List.pdb
